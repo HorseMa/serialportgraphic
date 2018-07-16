@@ -1,0 +1,1 @@
+gcc -o graphic.out graphic.c -lGL -lGLU -lglut
